@@ -1,0 +1,2 @@
+# iOS-HLFreeModeButton
+简单易用的UIButton，只需设置contentMode（类似于UIViewContentMode），即可调整图片image和文件title的布局
